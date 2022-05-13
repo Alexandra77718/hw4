@@ -1,0 +1,38 @@
+.header {
+    width: 80%;
+    height: 150px;
+    margin: 0 auto 0;
+    background-color: rgb(173, 163, 238);
+}
+
+.header__logo {
+    width: 65px;
+    height: 65px;
+    margin: 42px;
+    background-color: rgb(79, 67, 157);
+    display: inline-block;
+}
+.header__nav {
+    width: 1030px;
+    height: 60px;
+    margin: 10px 10px 0px 10px;
+    background-color: rgb(47, 37, 108);
+    display: inline-block;
+}
+
+.header__nav > div {
+width: 231px;
+height: 60px;
+margin: 0 10px 0;
+background-color: rgb(208, 200, 188);
+display: inline-block;
+}
+
+button {
+    width: 100px;
+    height: 70px;
+    background-color: rgb(64, 64, 132);
+    color: rgb(246, 241, 241);
+    display: inline-block;
+    font-size: 25px;
+}
